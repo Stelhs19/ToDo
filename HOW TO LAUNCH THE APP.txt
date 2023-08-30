@@ -1,0 +1,10 @@
+1) install Nodejs on your computer
+2)npm install -g create-react-app
+3)npm install -g json-server
+4)npm install -g react-router-dom
+
+In the project folder:
+
+5)npm install
+6)npm run fake-json
+7)npm start
